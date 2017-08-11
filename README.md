@@ -1,10 +1,12 @@
-# pkg-test
+pkg-test
+========
 
 > A Vue.js project
 
-## Build Setup
+Build Setup
+-----------
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -19,3 +21,8 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+readlink
+--------
+
+-	[https://github.com/qiniu/js-sdk/#概述](http://jssdk.demo.qiniu.io/formdata)
